@@ -1,2 +1,2 @@
 # drone-server
-install droneit and autobahn
+install dronekit and autobahn
